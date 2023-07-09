@@ -1,3 +1,6 @@
+"""
+Created by jaykayudo
+"""
 import pygame, time, sys
 from pygame.locals import *
 
